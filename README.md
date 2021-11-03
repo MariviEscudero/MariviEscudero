@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MariviEscudero](https://github.com/MariviEscudero)
-
 - 💬 Ask me about **HTML, CSS, SASS,**
-
-- 📫 How to reach me **mariviesmo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
