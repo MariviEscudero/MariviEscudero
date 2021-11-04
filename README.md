@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marivi Escudero</h1>
 <h3 align="center">Frontend developer under construction</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, SQL**
+- ⭐ I am passionate about new technologies, so I have decided that my career continue on this path and find my place in an IT company
 
-- 💬 Ask me about **HTML, CSS, SASS,**
+- 💗 I have successfully finished the Adalab bootcamp, and I continue my learning in Web development, so here you can see the projects carried out personally and as a team in Adalab and the personal projects in which I am advancing in my knowledge. These are the ones I like the most, and you?
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
