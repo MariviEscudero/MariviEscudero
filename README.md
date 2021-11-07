@@ -5,9 +5,12 @@
 
 - 💗 I have successfully finished the Adalab bootcamp, and I continue my learning in Web development, so here you can see the projects carried out personally and as a team in Adalab and the personal projects in which I am advancing in my knowledge. These are the ones I like the most, and you?
 
-![buscadordeseries](https://user-images.githubusercontent.com/86961323/140638152-6a0e1272-6d3d-417a-af9b-3aa206cb9731.PNG)
-<a href="url"><img src="https://user-images.githubusercontent.com/86961323/140638152-6a0e1272-6d3d-417a-af9b-3aa206cb9731.PNG" align="left" height="48" width="48" ></a>
-
+<p align="left">
+<a href="https://mariviescudero.github.io/Buscador-series-TV/" target="_blank"><img src="https://user-images.githubusercontent.com/86961323/140638152-6a0e1272-6d3d-417a-af9b-3aa206cb9731.PNG" align="center" width=39%></a>
+<a href="https://mariviescudero.github.io/Rick-and-Morty-Characters-Index/#/" target="_blank"><img src="https://user-images.githubusercontent.com/86961323/140638417-c6cc6226-5f7e-43b8-a7c8-4e66e572b9ca.PNG" align="center" width=34%></a>
+<a href="http://beta.adalab.es/project-promo-n-module-1-team-6/" target="_blank"><img src="https://user-images.githubusercontent.com/86961323/140638847-afc0ba97-01b8-4327-8465-4844695c8999.PNG" align="center" width=39%></a>
+<a href="http://beta.adalab.es/project-promo-n-module-2-team-2/" target="_blank"><img src="https://user-images.githubusercontent.com/86961323/140638571-7019b807-35c0-4bba-8869-062261a72a37.PNG" align="center" width=34%></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
