@@ -6,7 +6,7 @@
 - 💗 I have successfully finished the Adalab bootcamp, and I continue my learning in Web development, so here you can see the projects carried out personally and as a team in Adalab and the personal projects in which I am advancing in my knowledge. These are the ones I like the most, and you?
 
 ![buscadordeseries](https://user-images.githubusercontent.com/86961323/140638152-6a0e1272-6d3d-417a-af9b-3aa206cb9731.PNG)
-
+<a href="url"><img src="https://user-images.githubusercontent.com/86961323/140638152-6a0e1272-6d3d-417a-af9b-3aa206cb9731.PNG" align="left" height="48" width="48" ></a>
 
 
 <h3 align="left">Connect with me:</h3>
